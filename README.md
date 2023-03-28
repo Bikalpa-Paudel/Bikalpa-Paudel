@@ -1,9 +1,5 @@
-@@ -1,10 +0,0 @@
-- 👋 Hi, I’m @Bikalpa-Paudel
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+HI ✨
+I am Bikalpa, 18 years old frontend developer and learning it every day to specialized.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bikalpa-Paudel&show_icons=true&theme=radical)
