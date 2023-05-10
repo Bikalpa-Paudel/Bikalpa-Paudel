@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bikalpa Paudel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-![2GU](https://github.com/Bikalpa-Paudel/Bikalpa-Paudel/assets/89839823/ca4d8832-e426-4d8c-92da-3fd62d8026af)
+
+![2GU](https://github.com/Bikalpa-Paudel/Bikalpa-Paudel/assets/89839823/6a2570d5-c0a2-48a1-8125-a03048b49ecc)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikalpa-paudel&label=Profile%20views&color=0e75b6&style=flat" alt="bikalpa-paudel" /> </p>
 
 - 🌱 I’m currently learning **Frontend Techs**
