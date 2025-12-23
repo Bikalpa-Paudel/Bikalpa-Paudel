@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bikalpa Paudel</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
 
 ![2GU](https://github.com/Bikalpa-Paudel/Bikalpa-Paudel/assets/89839823/6a2570d5-c0a2-48a1-8125-a03048b49ecc)
 
